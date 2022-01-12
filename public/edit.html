@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
+    <link rel="stylesheet" href="./edit.css">
+</head>
+<body>
+    <div class="container">
+        <form class="single-task-form">
+            <h4>Edit Sneaker</h4>
+            <div class="formal-control">
+                <label>Sneaker ID</label>
+                <p class="task-edit-id"></p>
+            </div>
+            <div class="form-control">
+                <label for="Brand">Brand</label>
+                <input type="text" name="name" class="Brand-edit-name" placeholder="Jordan, Nike, Converse, etc">
+            </div>
+            <div class="form-control">
+                <label for="Shoe">Shoe</label>
+                <input type="text" name="name" class="Shoe-edit-name" placeholder="Ex: Jordan 3's">
+            </div>
+            <div class="form-control">
+                <label for="Rating">Rating</label>
+                <input type="text" name="name" class="Rating-edit-name" placeholder="1-10">
+            </div>
+            <div class="form-control">
+                <label for="Type">Type</label>
+                <input type="text" name="name" class="Type-edit-name" placeholder="Athletic, Hybrid, Boat, Comfy">
+            </div>
+            <div class="form-control">
+                <label for="Price">Price</label>
+                <input type="text" name="name" class="Price-edit-name" placeholder="150$">
+            </div>
+            <!-- <div class="form-control">
+                <label for="Stock">Stock</label>
+                <input type="text" name="True" class="task-edit-name" placeholder="True or False">
+            </div> -->
+            <div class="form-control">
+                <label for="completed">Stock</label>
+                <input type="checkbox" name="completed"class="Stock-edit-name">
+            </div>
+            <button type="submit" class="block btn task-edit-btn" style="background-color: red;">Edit</button>
+            <div class="form-alert"></div>
+        </form>
+        <a href="index.html" class="btn back-link">Back To Shoes</a>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"
+        integrity="sha512-bZS47S7sPOxkjU/4Bt0zrhEtWx0y0CRkhEp8IckzK+ltifIIE9EMIMTuT/mEzoIMewUINruDBIR/jJnbguonqQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="./edit.js"></script>
+</body>
+</html>

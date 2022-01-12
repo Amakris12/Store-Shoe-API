@@ -1,0 +1,202 @@
+[
+        {
+            "Brand":"Jordan",
+            "Shoe":"Air Jordan 1",
+            "Rating":9,
+            "Type": "Athletic",
+            "Price":"110$",
+            "Stock": true
+        },
+        {
+            "Brand":"Jordan",
+            "Shoe":"Air Jordan 3",
+            "Rating":10,
+            "Type": "Athletic",
+            "Price":"120$",
+            "Stock": true
+        },
+         {
+            "Brand":"Jordan",
+            "Shoe":" Air Jordan 5",
+            "Rating":8,
+            "Type": "Athletic",
+            "Price":"110$",
+            "Stock": true
+        },
+        {
+            "Brand":"Jordan",
+            "Shoe":"Air Jordan 4",
+            "Rating":8,
+            "Type": "Athletic",
+            "Price":"110$",
+            "Stock": true
+        },
+         {
+            "Brand":"Jordan",
+            "Shoe":"Air Jordan 1 High",
+            "Rating":10,
+            "Type": "Athletic",
+            "Price":"130$",
+            "Stock": true
+        },
+        {
+            "Brand":"Nike",
+            "Shoe":"Nike Air Force 1",
+            "Rating":10,
+            "Type": "Athletic",
+            "Price":"90$",
+            "Stock": true
+        },
+         {
+            "Brand":"Nike",
+            "Shoe":"Nike Air Max 90",
+            "Rating":7,
+            "Type": "Athletic",
+            "Price":"90$",
+            "Stock": true
+        },
+        {
+            "Brand":"Nike",
+            "Shoe":"Nike Kyrie 6",
+            "Rating":9,
+            "Type": "Athletic",
+            "Price":"130$",
+            "Stock": true
+        },
+         {
+            "Brand":"Nike",
+            "Shoe":"Nike Blazer",
+            "Rating":10,
+            "Type": "Athletic",
+            "Price":"70$",
+            "Stock": true
+        },
+        {
+            "Brand":"Nike",
+            "Shoe":"Nike Cortez",
+            "Rating":8,
+            "Type": "Athletic",
+            "Price":"60$",
+            "Stock": true
+        },
+         {
+            "Brand":"Adidas",
+            "Shoe":"Adidas Ultraboost 21",
+            "Rating":10,
+            "Type": "Athletic",
+            "Price":"80$",
+            "Stock": true
+        },
+        {
+            "Brand":"Adidas",
+            "Shoe":"Adidas NMD_R1 Primeblue",
+            "Rating":9,
+            "Type": "Athletic",
+            "Price":"120$",
+            "Stock": true
+        },
+         {
+            "Brand":"Adidas",
+            "Shoe":"Adidas D.O.N.",
+            "Rating":8,
+            "Type": "Athletic",
+            "Price":"130$",
+            "Stock": true
+        },
+        {
+            "Brand":"Adidas",
+            "Shoe":"Adidas Gazelle",
+            "Rating":7,
+            "Type": "Athletic",
+            "Price":"100$",
+            "Stock": true
+        },
+         {
+            "Brand":"Adidas",
+            "Shoe":"Adidas OAMC",
+            "Rating":5,
+            "Type": "Athletic",
+            "Price":"120$",
+            "Stock": true
+        },
+        {
+            "Brand":"Converse",
+            "Shoe":"Chuck Taylor All Star",
+            "Rating":10,
+            "Type": "Hybrid",
+            "Price":"60$",
+            "Stock": true
+        },
+         {
+            "Brand":"Converse",
+            "Shoe":"Run Star Hike",
+            "Rating":10,
+            "Type": "Hybrid",
+            "Price":"60$",
+            "Stock": true
+        },
+        {
+            "Brand":"Converse",
+            "Shoe":"Chuck Taylor All Star Lows",
+            "Rating":9,
+            "Type": "Hybrid",
+            "Price":"55$",
+            "Stock": true
+        },
+         {
+            "Brand":"Converse",
+            "Shoe":"Chuck Taylor All Star Move",
+            "Rating":7,
+            "Type": "Hybrid",
+            "Price":"65$",
+            "Stock": true
+        },
+        {
+            "Brand":"Converse",
+            "Shoe":"Color Vintage Canvas Chuck 70",
+            "Rating":6,
+            "Type": "Hybrid",
+            "Price":"60$",
+            "Stock": true
+        },
+         {
+            "Brand":"Vans",
+            "Shoe":"Authentic",
+            "Rating":10,
+            "Type": "Boat",
+            "Price":"50$",
+            "Stock": true
+        },
+        {
+            "Brand":"Vans",
+            "Shoe":"Checkerboard Slip-On",
+            "Rating":9,
+            "Type": "Boat",
+            "Price":"50$",
+            "Stock": true
+        },
+         {
+            "Brand":"Vans",
+            "Shoe":"Old Skool",
+            "Rating":9,
+            "Type": "Boat",
+            "Price":"50$",
+            "Stock": true
+        },
+        {
+            "Brand":"Vans",
+            "Shoe":"Canvas Sk8-Hi",
+            "Rating":7,
+            "Type": "Boat",
+            "Price":"50$",
+            "Stock": true
+        },
+         {
+            "Brand":"Vans",
+            "Shoe":"Gum Authentic",
+            "Rating":8,
+            "Type": "Boat",
+            "Price":"50$",
+            "Stock": true
+        }
+]

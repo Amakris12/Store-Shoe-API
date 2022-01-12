@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store Page</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+    <div class="header">
+        <H1 id="word-class">Sneaker API</H1>
+    </div>
+    <div class="Shoe-alert"></div>
+    <div>
+        <h3 class="head">Instructions</h3>
+        <p class="head-info">This page is very simple to use so this is going to be short and sweet. <br>There are shoes on the page that we currently have, We have 25 pairs. Each row for each show shoes the Brand, Shoe Name, Type, Rating, Price, and if we have it in stock. To edit the page there is an edit icon on the right hand side. Once you get there you can change any of the information shown on the home page. Push The button at the bottom of the page to complete the process and the information will be updated. To delete a shoe, there is an icon on the far right of a trash can. Once you push that the shoe is gone, Thank you. </p>
+    </div>
+    <!-- <div class="Shoe-Form">
+        <input type="text" name='name' class="shoe-Input" placeholder="Ex: Nike Air Force 1's" />
+        <button type="submit" class='button submit-btn'>Submit:</button>
+    </div> -->
+    <section class="Shoe-hold">
+        <p class="load-shoe">Loading...</p>
+        <div class="shoes"></div>
+    </section>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"
+        integrity="sha512-bZS47S7sPOxkjU/4Bt0zrhEtWx0y0CRkhEp8IckzK+ltifIIE9EMIMTuT/mEzoIMewUINruDBIR/jJnbguonqQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="./home.js"></script>
+</body>
+</html>
