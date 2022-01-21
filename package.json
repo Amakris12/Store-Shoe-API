@@ -2,6 +2,7 @@
   "dependencies": {
     "@heroku/buildpack-registry": "^1.0.1",
     "async-file": "^2.0.2",
+    "axios": "^0.25.0",
     "cli-ux": "^6.0.8",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
